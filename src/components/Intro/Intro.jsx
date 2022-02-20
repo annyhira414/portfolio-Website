@@ -1,13 +1,10 @@
-
+import "./Intro.css"
 
 const Intro = () =>{
     return (
         <div className="i">
-            <div className="i-left">
-                <div className="i-right">
-
-                </div>
-            </div>
+            <div className="i-left"> left  </div>
+                <div className="i-right"> Right</div>
         </div>
     )
     
